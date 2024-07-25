@@ -9,7 +9,7 @@
   "files": [
     "dist/",
     "ios/Plugin/",
-    "PerfoodCapacitorHealthkit.podspec"
+    "PnpDigitalCapacitorHealthkit.podspec"
   ],
   "author": "Perfood GmbH",
   "license": "MIT",
